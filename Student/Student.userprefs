@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{8A5DD56B-586A-4F75-8ECD-AC2B6E5B561D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Prime_Number/Program.cs">
+﻿<Properties StartupConfiguration="{FC448534-07A7-4D77-9369-9AD6E21A8B6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Student/Program.cs">
     <Files>
-      <File FileName="Prime_Number/Program.cs" Line="3" Column="5" />
+      <File FileName="Student/Program.cs" Line="10" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -9,6 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Prime__Number PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Student PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
