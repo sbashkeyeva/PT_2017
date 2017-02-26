@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{ABAF808F-B434-4029-95FF-6597FFAD63F6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MaxMin/Program.cs">
+﻿<Properties StartupConfiguration="{0806DF19-961B-4D3B-A5AF-939075E9991F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Complex/Program.cs">
     <Files>
-      <File FileName="MaxMin/Program.cs" Line="9" Column="28" />
+      <File FileName="Complex/Program.cs" Line="7" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -10,5 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MaxMin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Complex PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -6,38 +6,35 @@ namespace MaxMin
 {
 	class MainClass
 	{
-		//create a function to find min and max in array
-		public static void File()
+		public static bool isPrime(int n)
 		{
-			//read from input.txt the datas
-			StreamReader sr = new StreamReader(@"/Users/symbatbashkeyeva/Documents/s");
-			//a string array that contains the substring of this intance, separated by "_"
-			string[] arr = sr.ReadLine().Split();
-			int min = 1000000;//giving large number to check min
-			int max = 0;//giving small number to check min
-			foreach (string s in arr) //converting array to string
+			for (int i = 2; i < n; i++)
 			{
-				int a = int.Parse(s); //converting string to integer
-				//checks every number in array
-				if (a < min)
-				{
-					min = a;
-				}
-				//checks every number in array for maximum
-				if (a > max)
-				{
-					max = a;
-				}
+				if (n % 2 == 0) return false;
+				if (n == 1) return false;
+				if (n == 2) return true;
+				return true;
 			}
-			Console.WriteLine("minimum number is " + min);
-			Console.WriteLine("maximum number is" + max);
+		}
+		public static void file()
+		{
+			StreamReader sr = new StreamReader(@"/Users/symbatbashkeyeva/Documents/s");
+			StreamWriter sw = new StreamWriter(@"/Users/symbatbashkeyeva/Documents/b");
+			string[] arr = sr.ReadLine().Split();
+			int min = 320000000;
+			foreach (string p in arr)
+			{
+				int a = int.Parse(p);
+				if (isPrime(a) && a < min)
+					min = a;
+			}
+			sw.WriteLine("The smallest prime number:" + min);
+			sw.Close();
 			sr.Close();
 		}
 		public static void Main(string[] args)
 		{
-			//call a function 
-			File();
-			//window will not close until we don't press any key 
+			file();
 			Console.ReadKey();	
 		}
 	}
