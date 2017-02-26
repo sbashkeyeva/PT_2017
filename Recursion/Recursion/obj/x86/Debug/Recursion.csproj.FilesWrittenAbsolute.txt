@@ -1,0 +1,5 @@
+/Users/symbatbashkeyeva/Projects1/Recursion/Recursion/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/symbatbashkeyeva/Projects1/Recursion/Recursion/bin/Debug/Recursion.exe.mdb
+/Users/symbatbashkeyeva/Projects1/Recursion/Recursion/bin/Debug/Recursion.exe
+/Users/symbatbashkeyeva/Projects1/Recursion/Recursion/obj/x86/Debug/Recursion.exe
+/Users/symbatbashkeyeva/Projects1/Recursion/Recursion/obj/x86/Debug/Recursion.exe.mdb
