@@ -1,0 +1,5 @@
+/Users/symbatbashkeyeva/Projects1/FarManager/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/symbatbashkeyeva/Projects1/FarManager/bin/Debug/FarManager.exe.mdb
+/Users/symbatbashkeyeva/Projects1/FarManager/bin/Debug/FarManager.exe
+/Users/symbatbashkeyeva/Projects1/FarManager/obj/x86/Debug/FarManager.exe
+/Users/symbatbashkeyeva/Projects1/FarManager/obj/x86/Debug/FarManager.exe.mdb
