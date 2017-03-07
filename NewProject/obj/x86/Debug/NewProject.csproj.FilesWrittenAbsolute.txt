@@ -1,0 +1,5 @@
+/Users/symbatbashkeyeva/Projects1/NewProject/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/symbatbashkeyeva/Projects1/NewProject/bin/Debug/NewProject.exe.mdb
+/Users/symbatbashkeyeva/Projects1/NewProject/bin/Debug/NewProject.exe
+/Users/symbatbashkeyeva/Projects1/NewProject/obj/x86/Debug/NewProject.exe
+/Users/symbatbashkeyeva/Projects1/NewProject/obj/x86/Debug/NewProject.exe.mdb

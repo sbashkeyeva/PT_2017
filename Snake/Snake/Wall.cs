@@ -14,11 +14,11 @@ namespace Week5_Snake
 		public char sign = 'o';
 		public ConsoleColor color;
 
-		public Wall()
+		public Wall(int level)
 		{
 			body = new List<Point>();
 			color = ConsoleColor.Blue;
-
+			DirectoryInfo d = new DirectoryInfo("");
 			StreamReader sr = new StreamReader("wall.txt");
 			int n = int.Parse(sr.ReadLine());
 			for (int i = 0; i < n; i++)

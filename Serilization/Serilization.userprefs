@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{0806DF19-961B-4D3B-A5AF-939075E9991F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Complex/Program.cs">
+﻿<Properties StartupConfiguration="{01B3780B-7E8A-4BF1-8FE7-97A0CE23AD2C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Serilization PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Complex/Program.cs" Line="26" Column="5" />
+      <File FileName="Program.cs" Line="8" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -10,5 +11,4 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Complex PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
