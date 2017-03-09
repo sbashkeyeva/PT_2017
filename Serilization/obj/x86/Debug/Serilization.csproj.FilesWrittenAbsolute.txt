@@ -1,0 +1,5 @@
+/Users/symbatbashkeyeva/Projects1/Serilization/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/symbatbashkeyeva/Projects1/Serilization/bin/Debug/Serilization.exe.mdb
+/Users/symbatbashkeyeva/Projects1/Serilization/bin/Debug/Serilization.exe
+/Users/symbatbashkeyeva/Projects1/Serilization/obj/x86/Debug/Serilization.exe
+/Users/symbatbashkeyeva/Projects1/Serilization/obj/x86/Debug/Serilization.exe.mdb
